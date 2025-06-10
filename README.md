@@ -1,4 +1,10 @@
-## Hi there 👋
+## João Vitor Frossard 👋
+
+Hello there! I'm João, Software Development Manager at Brasil TecPar Inc. Be welcome to my personal Github Page!
+
+## About me
+
+I'm a physicist in an eternal honeymoon with technology and software development. I work at Brasil TecPar Inc. one of the Top 5 Telecommunications Companies in Brazil. 
 
 <!--
 **jvfrossard/jvfrossard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
